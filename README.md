@@ -9,5 +9,6 @@ https://github.com/3squ/BasicMyTdMods/releases/tag/Unnerfed.Achievements
 The myTeardrop "Hard Mode", Achievements are now significantly harder, and Food and Costumes are now requires you to unlock each 5 levels.
 https://github.com/3squ/BasicMyTdMods/releases/tag/Economic.Collapse
 ## [1.2.2] Hypertranslation Mod
-Cancelled mod due to 1.3 Release, This mod translates 100 times.
+![iScream - myTeardrop 1.2.2 Mod](https://file.garden/ZSHQnWTvf253N27v/myTeardrop%20Stuff/mytd2.png)
+Cancelled mod due to 1.3 Release, This mod translates 100 times on texts.
 https://github.com/3squ/BasicMyTdMods/releases/tag/Hypertranslation
